@@ -23,8 +23,8 @@ Additionally, there is a button to clear all slicers for resetting the filters.
 ##### Sales by Outlet Size: A donut chart shows sales distribution across different outlet sizes (Small, Medium, Large).
 ##### Sales by Outlet Location: A bar chart displaying total sales in Tier 1, Tier 2, and Tier 3 cities.
 ##### Outlet Establishment Timeline: A line chart that visualizes the total sales over time from 2012 to 2022.
-#####Outlet Type Performance: A table showing the performance of different outlet types (Grocery Stores, Supermarket Types 1–3) based on total sales, average sales, number of items, average ratings, and item visibility.
+##### Outlet Type Performance: A table showing the performance of different outlet types (Grocery Stores, Supermarket Types 1–3) based on total sales, average sales, number of items, average ratings, and item visibility.
 ## Visuals & Insights
-Geographical Sales Trends: Explore how sales vary by location, with Tier 3 contributing the most to overall sales.
-Item Breakdown: Visualize which types of products contribute the most to sales, with a particular emphasis on snack foods and household items.
-Sales Growth Over Time: Analyze sales trends over the years, identifying peak periods in 2018.
+##### Geographical Sales Trends: Explore how sales vary by location, with Tier 3 contributing the most to overall sales.
+##### Item Breakdown: Visualize which types of products contribute the most to sales, with a particular emphasis on snack foods and household items.
+##### Sales Growth Over Time: Analyze sales trends over the years, identifying peak periods in 2018.
