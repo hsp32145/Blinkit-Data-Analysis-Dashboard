@@ -28,3 +28,11 @@ Additionally, there is a button to clear all slicers for resetting the filters.
 ##### Geographical Sales Trends: Explore how sales vary by location, with Tier 3 contributing the most to overall sales.
 ##### Item Breakdown: Visualize which types of products contribute the most to sales, with a particular emphasis on snack foods and household items.
 ##### Sales Growth Over Time: Analyze sales trends over the years, identifying peak periods in 2018.
+
+## Requirements
+Power BI Desktop (Download from [here](https://www.microsoft.com/en-us/power-platform/products/power-bi/desktop))
+
+## Dataset
+The data used to create this dashboard includes information about sales, outlets, item types, and ratings from Blinkit.
+
+## 
