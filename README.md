@@ -13,17 +13,17 @@ Average Rating: Provides the average customer rating, which is 3.9.
 ### 2. Filter Panel
 Users can filter the data using three options:
 
-Outlet Location Type: Filter sales data by tier (Tier 1, Tier 2, or Tier 3).
-Outlet Size: Filter by the size of the outlet (Small, Medium, or Large).
-Item Type: Filter by various item categories.
+#####Outlet Location Type: Filter sales data by tier (Tier 1, Tier 2, or Tier 3).
+#####Outlet Size: Filter by the size of the outlet (Small, Medium, or Large).
+#####Item Type: Filter by various item categories.
 Additionally, there is a button to clear all slicers for resetting the filters.
 
 ### 3. Detailed Analysis
-Fat Content and Item Type: A breakdown of total sales by fat content (Low Fat and Regular) and item types, such as Fruits, Snack Foods, Household items, and more.
-Sales by Outlet Size: A donut chart shows sales distribution across different outlet sizes (Small, Medium, Large).
-Sales by Outlet Location: A bar chart displaying total sales in Tier 1, Tier 2, and Tier 3 cities.
-Outlet Establishment Timeline: A line chart that visualizes the total sales over time from 2012 to 2022.
-Outlet Type Performance: A table showing the performance of different outlet types (Grocery Stores, Supermarket Types 1–3) based on total sales, average sales, number of items, average ratings, and item visibility.
+#####Fat Content and Item Type: A breakdown of total sales by fat content (Low Fat and Regular) and item types, such as Fruits, Snack Foods, Household items, and more.
+#####Sales by Outlet Size: A donut chart shows sales distribution across different outlet sizes (Small, Medium, Large).
+#####Sales by Outlet Location: A bar chart displaying total sales in Tier 1, Tier 2, and Tier 3 cities.
+#####Outlet Establishment Timeline: A line chart that visualizes the total sales over time from 2012 to 2022.
+#####Outlet Type Performance: A table showing the performance of different outlet types (Grocery Stores, Supermarket Types 1–3) based on total sales, average sales, number of items, average ratings, and item visibility.
 ## Visuals & Insights
 Geographical Sales Trends: Explore how sales vary by location, with Tier 3 contributing the most to overall sales.
 Item Breakdown: Visualize which types of products contribute the most to sales, with a particular emphasis on snack foods and household items.
